@@ -1,51 +1,46 @@
-# HR Employee Attrition Analysis Dashboard
+# HR Employee Attrition Dashboard
 
 ## Task 03 – Interactive Visualization
 
 ### Objective
-Create an interactive dashboard using Power BI to analyze employee attrition and identify the key factors influencing employees to leave the organization.
+
+The objective of this project is to create an interactive dashboard using Power BI to analyze employee attrition and identify patterns related to employee turnover.
 
 ### Dataset
-IBM HR Employee Attrition Dataset
+
+HR Employee Attrition Dataset
 
 ### Tools Used
-- Power BI Desktop
-- CSV Dataset
+
+* Power BI
+* Microsoft Excel/CSV Dataset
 
 ### Dashboard Features
-#### Interactive Filters (Slicers)
-- Department
-- Age Group
-- Gender
-- Job Role
-- OverTime
 
-#### KPI Cards
-- Total Employees
-- Employees Left
-- Attrition Rate (%)
-- Average Monthly Income
-
-### Visualizations
-1. Attrition by Department
-2. Attrition by Age Group
-3. Attrition by Job Role
-4. Attrition by OverTime
-5. Monthly Income vs Attrition
-6. Attrition by Years at Company
+* Total Employees KPI
+* Employees Left KPI
+* Attrition Rate KPI
+* Average Age KPI
+* Monthly Income KPI
+* Attrition by Department
+* Attrition by Age Group
+* Attrition by Job Role
+* Department-wise Employee Count
+* Attrition Trend by Experience
+* Interactive Department Filter
 
 ### Key Insights
-- Sales department has the highest employee attrition.
-- Employees working overtime are more likely to leave the organization.
-- The 26–35 age group shows higher attrition rates.
-- Employees with fewer years at the company have a higher tendency to leave.
-- Monthly income and job role influence employee retention.
+
+* Certain departments experience higher employee attrition than others.
+* Employee attrition varies across different age groups.
+* Some job roles have a greater attrition rate.
+* Experience level influences employee turnover patterns.
+* Interactive filters allow users to explore attrition trends dynamically.
+
+### Conclusion
+
+This dashboard provides a clear and interactive view of employee attrition. It helps identify trends and factors associated with employee turnover, enabling better workforce management and decision-making.
 
 ### Outcome
-This interactive dashboard helps analyze employee attrition trends and provides insights into the factors affecting employee turnover.
 
-### Author
-Rapolu Swethasri
-
-### Internship
-SkillCraft Technology – Task 03: Interactive Visualization
+Successfully developed an interactive Power BI dashboard that visualizes employee attrition data and supports data-driven analysis through dynamic filtering and reporting.
